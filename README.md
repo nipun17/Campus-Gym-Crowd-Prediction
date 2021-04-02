@@ -1,0 +1,2 @@
+# Campus-Gym-Crowd-Prediction
+Campus Gyms have limited number of workout equipment, to find a perfect time slot when gym is less crowded is challenging.   The objective is to predict how much crowded the Gym is at given point of time  and what are the factors affecting number of people using the gym.  Predicting how crowded gym will be in future and accordingly can be used by the students at the campus.
