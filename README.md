@@ -13,18 +13,18 @@ The independent variables in the data-set are as follows:
 
            date (string; datetime of data)
            
-           timestamp (int; number of seconds since beginning of day)
+           timestamp (int; number of seconds since beginning of day)
            
-           dayofweek (int; 0 [monday] - 6 [sunday])
+           dayofweek (int; 0 [monday] - 6 [sunday])
            
-           is_weekend (int; 0 or 1) [boolean, if 1, it's either saturday or sunday, otherwise 0]
+           is_weekend (int; 0 or 1) [boolean, if 1, it's either saturday or sunday, otherwise 0]
            
-           is_holiday (int; 0 or 1) [boolean, if 1 it's a federal holiday, 0 otherwise]
+           is_holiday (int; 0 or 1) [boolean, if 1 it's a federal holiday, 0 otherwise]
            
-           temperature (float; degrees fahrenheit)
+           temperature (float; degrees fahrenheit)
            
-           isstartof_semester (int; 0 or 1) [boolean, if 1 it's the beginning of a school semester, 0 otherwise]
+           isstartof_semester (int; 0 or 1) [boolean, if 1 it's the beginning of a school semester, 0 otherwise]
            
-           month (int; 1 [jan] - 12 [dec])
+           month (int; 1 [jan] - 12 [dec])
            
-           hour (int; 0 - 23)
+           hour (int; 0 - 23)
