@@ -15,7 +15,7 @@ The independent variables in the data-set are as follows:
            
            timestamp (int; number of seconds since beginning of day)
            
-           dayofweek (int; 0 [monday] - 6 [sunday])
+           dayofweek (int; 0 [monday] - 6 [sunday])
            
            is_weekend (int; 0 or 1) [boolean, if 1, it's either saturday or sunday, otherwise 0]
            
